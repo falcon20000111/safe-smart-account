@@ -22,3 +22,6 @@ typechain-types
 .certora_internal
 .certora_recent_jobs.json
 .zip-output-url.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
